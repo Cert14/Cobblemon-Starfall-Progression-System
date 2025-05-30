@@ -30,3 +30,6 @@ Instead of allowing IV breeders to dominate from day one, create early-game cont
 Let skilled players stand out through strategy, not brute force. Give space for diverse playstyles to shine in PvP before raw power becomes overwhelming. As the game matures, balance tilts naturally toward those with better tools. But early on, reward mastery through limitations.
 
 This keeps both casual and competitive players engaged, challenged, and eager to grow.
+
+
+### Later should be added a list of held items with 4 tiers. From OP to Meh
